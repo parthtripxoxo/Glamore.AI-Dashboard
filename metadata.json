@@ -1,0 +1,7 @@
+{
+  "name": "Glamore.ai Admin Dashboard",
+  "description": "A premium, mobile-friendly administrative console for managing users, analytics, and billing for Glamore.ai.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
